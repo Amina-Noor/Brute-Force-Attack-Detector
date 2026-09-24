@@ -91,11 +91,4 @@ pytest
 This project is open-source and available under the MIT License.
 
 ```
-### How to Update It on GitHub
 
-Run these commands in your Git Bash inside `Brute-Force-Attack-Detector`:
-
-```bash
-git add README.md
-git commit -m "docs: update README with comprehensive project documentation"
-git push origin main
