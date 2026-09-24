@@ -1,0 +1,500 @@
+Aug  1 08:01:17 webserver01 sshd[10001]: Accepted password for deploy from 10.0.0.18 port 48024 ssh2
+Aug  1 08:03:31 webserver01 sshd[10002]: Accepted password for alice from 10.0.0.5 port 57870 ssh2
+Aug  1 08:04:35 webserver01 sshd[10003]: Accepted password for dave from 192.168.1.20 port 41041 ssh2
+Aug  1 08:05:10 webserver01 sshd[10004]: Accepted password for deploy from 10.0.0.12 port 47623 ssh2
+Aug  1 08:09:48 webserver01 sshd[10005]: Accepted password for dave from 10.0.0.5 port 58390 ssh2
+Aug  1 08:11:49 webserver01 sshd[10006]: Accepted password for svc-backup from 192.168.1.20 port 47223 ssh2
+Aug  1 08:15:58 webserver01 sshd[10007]: Accepted password for dave from 10.0.0.18 port 40212 ssh2
+Aug  1 08:17:39 webserver01 sshd[10008]: Accepted password for svc-backup from 192.168.1.20 port 51149 ssh2
+Aug  1 08:20:21 webserver01 sshd[10009]: Accepted password for alice from 10.0.0.12 port 51029 ssh2
+Aug  1 08:21:33 webserver01 sshd[10010]: Accepted password for deploy from 192.168.1.20 port 43169 ssh2
+Aug  1 08:24:56 webserver01 sshd[10011]: Accepted password for jenkins from 10.0.0.18 port 59782 ssh2
+Aug  1 08:27:31 webserver01 sshd[10012]: Accepted password for jenkins from 10.0.0.5 port 55054 ssh2
+Aug  1 08:32:25 webserver01 sshd[10013]: Accepted password for deploy from 192.168.1.20 port 42582 ssh2
+Aug  1 08:35:15 webserver01 sshd[10014]: Accepted password for jenkins from 10.0.0.18 port 58918 ssh2
+Aug  1 08:37:13 webserver01 sshd[10015]: Accepted password for svc-backup from 10.0.0.5 port 41501 ssh2
+Aug  1 08:39:29 webserver01 sshd[10016]: Accepted password for jenkins from 10.0.0.18 port 42614 ssh2
+Aug  1 08:41:48 webserver01 sshd[10017]: Accepted password for jenkins from 10.0.0.5 port 52455 ssh2
+Aug  1 08:44:30 webserver01 sshd[10018]: Accepted password for carol from 10.0.0.18 port 45329 ssh2
+Aug  1 08:47:59 webserver01 sshd[10019]: Accepted password for bob from 10.0.0.12 port 48748 ssh2
+Aug  1 08:48:55 webserver01 sshd[10020]: Accepted password for dave from 10.0.0.12 port 57502 ssh2
+Aug  1 08:51:20 webserver01 sshd[10021]: Accepted password for alice from 192.168.1.20 port 52433 ssh2
+Aug  1 08:53:58 webserver01 sshd[10022]: Accepted password for svc-backup from 10.0.0.12 port 50626 ssh2
+Aug  1 08:54:46 webserver01 sshd[10023]: Accepted password for alice from 10.0.0.5 port 50336 ssh2
+Aug  1 08:58:31 webserver01 sshd[10024]: Accepted password for bob from 10.0.0.5 port 46913 ssh2
+Aug  1 09:01:32 webserver01 sshd[10025]: Accepted password for alice from 192.168.1.20 port 52964 ssh2
+Aug  1 09:05:46 webserver01 sshd[10026]: Accepted password for alice from 10.0.0.18 port 44575 ssh2
+Aug  1 09:08:12 webserver01 sshd[10027]: Accepted password for svc-backup from 10.0.0.18 port 59155 ssh2
+Aug  1 09:12:11 webserver01 sshd[10028]: Accepted password for dave from 192.168.1.20 port 51861 ssh2
+Aug  1 09:14:23 webserver01 sshd[10029]: Accepted password for alice from 192.168.1.20 port 42978 ssh2
+Aug  1 09:15:07 webserver01 sshd[10030]: Accepted password for jenkins from 10.0.0.5 port 45008 ssh2
+Aug  1 09:16:48 webserver01 sshd[10031]: Accepted password for jenkins from 192.168.1.20 port 59543 ssh2
+Aug  1 09:17:40 webserver01 sshd[10032]: Accepted password for carol from 192.168.1.20 port 59526 ssh2
+Aug  1 09:21:59 webserver01 sshd[10033]: Accepted password for dave from 10.0.0.18 port 58128 ssh2
+Aug  1 09:22:24 webserver01 sshd[10034]: Accepted password for svc-backup from 10.0.0.5 port 57595 ssh2
+Aug  1 09:25:00 webserver01 sshd[10035]: Accepted password for jenkins from 10.0.0.18 port 43655 ssh2
+Aug  1 09:27:50 webserver01 sshd[10036]: Accepted password for carol from 10.0.0.12 port 54867 ssh2
+Aug  1 09:28:11 webserver01 sshd[10037]: Accepted password for svc-backup from 10.0.0.18 port 56403 ssh2
+Aug  1 09:30:02 webserver01 sshd[10038]: Accepted password for dave from 10.0.0.5 port 49779 ssh2
+Aug  1 09:34:41 webserver01 sshd[10039]: Accepted password for dave from 10.0.0.12 port 45008 ssh2
+Aug  1 09:38:12 webserver01 sshd[10040]: Accepted password for jenkins from 10.0.0.12 port 57674 ssh2
+Aug  1 09:43:03 webserver01 sshd[10041]: Accepted password for deploy from 10.0.0.18 port 56010 ssh2
+Aug  1 09:43:32 webserver01 sshd[10042]: Accepted password for deploy from 10.0.0.18 port 50076 ssh2
+Aug  1 09:45:54 webserver01 sshd[10043]: Accepted password for deploy from 10.0.0.12 port 58591 ssh2
+Aug  1 09:46:54 webserver01 sshd[10044]: Accepted password for deploy from 192.168.1.20 port 42267 ssh2
+Aug  1 09:51:46 webserver01 sshd[10045]: Accepted password for jenkins from 10.0.0.12 port 44207 ssh2
+Aug  1 09:56:09 webserver01 sshd[10046]: Accepted password for dave from 10.0.0.12 port 48685 ssh2
+Aug  1 10:00:59 webserver01 sshd[10047]: Accepted password for jenkins from 192.168.1.20 port 46940 ssh2
+Aug  1 10:05:55 webserver01 sshd[10048]: Accepted password for jenkins from 10.0.0.12 port 50214 ssh2
+Aug  1 10:09:39 webserver01 sshd[10049]: Accepted password for svc-backup from 10.0.0.18 port 54355 ssh2
+Aug  1 10:14:23 webserver01 sshd[10050]: Accepted password for carol from 10.0.0.5 port 48123 ssh2
+Aug  1 10:16:38 webserver01 sshd[10051]: Accepted password for deploy from 10.0.0.18 port 40689 ssh2
+Aug  1 10:18:55 webserver01 sshd[10052]: Accepted password for dave from 10.0.0.12 port 40235 ssh2
+Aug  1 10:19:51 webserver01 sshd[10053]: Accepted password for svc-backup from 10.0.0.5 port 47501 ssh2
+Aug  1 10:20:45 webserver01 sshd[10054]: Accepted password for deploy from 10.0.0.18 port 42321 ssh2
+Aug  1 10:25:28 webserver01 sshd[10055]: Accepted password for alice from 10.0.0.18 port 55906 ssh2
+Aug  1 10:27:37 webserver01 sshd[10056]: Accepted password for dave from 10.0.0.12 port 58711 ssh2
+Aug  1 10:31:59 webserver01 sshd[10057]: Accepted password for alice from 192.168.1.20 port 53338 ssh2
+Aug  1 10:33:56 webserver01 sshd[10058]: Accepted password for deploy from 10.0.0.5 port 54124 ssh2
+Aug  1 10:37:17 webserver01 sshd[10059]: Accepted password for carol from 192.168.1.20 port 55303 ssh2
+Aug  1 10:38:04 webserver01 sshd[10060]: Accepted password for svc-backup from 10.0.0.5 port 41986 ssh2
+Aug  1 10:41:50 webserver01 sshd[10061]: Accepted password for svc-backup from 10.0.0.18 port 43580 ssh2
+Aug  1 10:44:17 webserver01 sshd[10062]: Accepted password for alice from 10.0.0.12 port 57573 ssh2
+Aug  1 10:48:26 webserver01 sshd[10063]: Accepted password for alice from 192.168.1.20 port 46012 ssh2
+Aug  1 10:51:08 webserver01 sshd[10064]: Accepted password for carol from 10.0.0.12 port 42470 ssh2
+Aug  1 10:55:14 webserver01 sshd[10065]: Accepted password for jenkins from 10.0.0.5 port 41657 ssh2
+Aug  1 11:00:10 webserver01 sshd[10066]: Accepted password for jenkins from 10.0.0.5 port 43056 ssh2
+Aug  1 11:02:31 webserver01 sshd[10067]: Accepted password for alice from 192.168.1.20 port 55913 ssh2
+Aug  1 11:06:57 webserver01 sshd[10068]: Accepted password for alice from 192.168.1.20 port 41921 ssh2
+Aug  1 11:08:41 webserver01 sshd[10069]: Accepted password for carol from 10.0.0.5 port 52793 ssh2
+Aug  1 11:11:16 webserver01 sshd[10070]: Accepted password for jenkins from 192.168.1.20 port 49347 ssh2
+Aug  1 11:15:12 webserver01 sshd[10071]: Accepted password for svc-backup from 192.168.1.20 port 45072 ssh2
+Aug  1 11:17:09 webserver01 sshd[10072]: Accepted password for bob from 10.0.0.12 port 41916 ssh2
+Aug  1 11:22:06 webserver01 sshd[10073]: Accepted password for deploy from 10.0.0.18 port 41873 ssh2
+Aug  1 11:22:51 webserver01 sshd[10074]: Accepted password for dave from 192.168.1.20 port 56477 ssh2
+Aug  1 11:27:42 webserver01 sshd[10075]: Accepted password for alice from 10.0.0.5 port 56640 ssh2
+Aug  1 11:28:43 webserver01 sshd[10076]: Accepted password for jenkins from 10.0.0.12 port 42245 ssh2
+Aug  1 11:29:37 webserver01 sshd[10077]: Accepted password for svc-backup from 10.0.0.12 port 53230 ssh2
+Aug  1 11:30:58 webserver01 sshd[10078]: Accepted password for dave from 10.0.0.12 port 58970 ssh2
+Aug  1 11:31:38 webserver01 sshd[10079]: Accepted password for dave from 10.0.0.5 port 53737 ssh2
+Aug  1 11:36:25 webserver01 sshd[10080]: Accepted password for bob from 10.0.0.18 port 46693 ssh2
+Aug  1 11:39:25 webserver01 sshd[10081]: Accepted password for alice from 10.0.0.18 port 52969 ssh2
+Aug  1 11:40:52 webserver01 sshd[10082]: Accepted password for svc-backup from 10.0.0.18 port 54982 ssh2
+Aug  1 11:43:53 webserver01 sshd[10083]: Accepted password for jenkins from 10.0.0.5 port 40305 ssh2
+Aug  1 11:48:07 webserver01 sshd[10084]: Accepted password for dave from 10.0.0.5 port 42400 ssh2
+Aug  1 11:53:02 webserver01 sshd[10085]: Accepted password for alice from 10.0.0.18 port 44340 ssh2
+Aug  1 11:56:20 webserver01 sshd[10086]: Accepted password for deploy from 10.0.0.12 port 52108 ssh2
+Aug  1 11:59:05 webserver01 sshd[10087]: Accepted password for alice from 192.168.1.20 port 57800 ssh2
+Aug  1 12:01:59 webserver01 sshd[10088]: Accepted password for dave from 10.0.0.5 port 58173 ssh2
+Aug  1 12:04:52 webserver01 sshd[10089]: Accepted password for svc-backup from 10.0.0.5 port 44400 ssh2
+Aug  1 12:07:27 webserver01 sshd[10090]: Accepted password for deploy from 10.0.0.5 port 58128 ssh2
+Aug  1 12:09:06 webserver01 sshd[10091]: Accepted password for bob from 10.0.0.18 port 59819 ssh2
+Aug  1 12:11:13 webserver01 sshd[10092]: Accepted password for svc-backup from 10.0.0.18 port 46671 ssh2
+Aug  1 12:13:48 webserver01 sshd[10093]: Accepted password for dave from 192.168.1.20 port 48228 ssh2
+Aug  1 12:14:34 webserver01 sshd[10094]: Accepted password for deploy from 192.168.1.20 port 49066 ssh2
+Aug  1 12:15:16 webserver01 sshd[10095]: Accepted password for deploy from 10.0.0.18 port 44286 ssh2
+Aug  1 12:17:50 webserver01 sshd[10096]: Accepted password for alice from 192.168.1.20 port 58077 ssh2
+Aug  1 12:21:48 webserver01 sshd[10097]: Accepted password for dave from 10.0.0.5 port 43665 ssh2
+Aug  1 12:22:46 webserver01 sshd[10098]: Accepted password for svc-backup from 10.0.0.12 port 57877 ssh2
+Aug  1 12:23:24 webserver01 sshd[10099]: Accepted password for jenkins from 10.0.0.18 port 59087 ssh2
+Aug  1 12:24:59 webserver01 sshd[10100]: Accepted password for carol from 10.0.0.12 port 41370 ssh2
+Aug  1 12:27:56 webserver01 sshd[10101]: Accepted password for bob from 10.0.0.5 port 51724 ssh2
+Aug  1 12:30:03 webserver01 sshd[10102]: Accepted password for svc-backup from 10.0.0.12 port 43368 ssh2
+Aug  1 12:33:24 webserver01 sshd[10103]: Accepted password for jenkins from 192.168.1.20 port 45064 ssh2
+Aug  1 12:35:45 webserver01 sshd[10104]: Accepted password for jenkins from 10.0.0.12 port 45801 ssh2
+Aug  1 12:39:36 webserver01 sshd[10105]: Accepted password for deploy from 10.0.0.12 port 50885 ssh2
+Aug  1 12:43:26 webserver01 sshd[10106]: Accepted password for jenkins from 10.0.0.12 port 48742 ssh2
+Aug  1 12:45:07 webserver01 sshd[10107]: Accepted password for jenkins from 10.0.0.5 port 52535 ssh2
+Aug  1 12:45:46 webserver01 sshd[10108]: Accepted password for jenkins from 192.168.1.20 port 47288 ssh2
+Aug  1 12:47:48 webserver01 sshd[10109]: Accepted password for jenkins from 192.168.1.20 port 51457 ssh2
+Aug  1 12:50:44 webserver01 sshd[10110]: Accepted password for jenkins from 10.0.0.12 port 47304 ssh2
+Aug  1 12:51:16 webserver01 sshd[10111]: Accepted password for svc-backup from 10.0.0.12 port 53056 ssh2
+Aug  1 12:54:24 webserver01 sshd[10112]: Accepted password for bob from 10.0.0.5 port 49146 ssh2
+Aug  1 12:57:43 webserver01 sshd[10113]: Accepted password for svc-backup from 192.168.1.20 port 57570 ssh2
+Aug  1 13:00:52 webserver01 sshd[10114]: Accepted password for deploy from 10.0.0.5 port 48559 ssh2
+Aug  1 13:02:43 webserver01 sshd[10115]: Accepted password for dave from 10.0.0.18 port 41253 ssh2
+Aug  1 13:03:58 webserver01 sshd[10116]: Accepted password for dave from 192.168.1.20 port 51327 ssh2
+Aug  1 13:06:58 webserver01 sshd[10117]: Accepted password for carol from 10.0.0.5 port 52622 ssh2
+Aug  1 13:08:55 webserver01 sshd[10118]: Accepted password for bob from 10.0.0.5 port 54288 ssh2
+Aug  1 13:09:15 webserver01 sshd[10119]: Accepted password for dave from 10.0.0.12 port 51934 ssh2
+Aug  1 13:13:15 webserver01 sshd[10120]: Accepted password for deploy from 10.0.0.18 port 50286 ssh2
+Aug  1 13:16:24 webserver01 sudo:   jenkins : TTY=pts/0 ; PWD=/home/jenkins ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx
+Aug  1 13:18:00 webserver01 sudo:   dave : TTY=pts/0 ; PWD=/home/dave ; USER=root ; COMMAND=/usr/bin/apt update
+Aug  1 13:21:10 webserver01 sudo:   carol : TTY=pts/0 ; PWD=/home/carol ; USER=root ; COMMAND=/usr/bin/apt update
+Aug  1 13:23:13 webserver01 sudo:   svc-backup : TTY=pts/0 ; PWD=/home/svc-backup ; USER=root ; COMMAND=/usr/bin/apt update
+Aug  1 13:25:54 webserver01 sudo:   alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/bin/ls /var/log
+Aug  1 13:28:01 webserver01 sudo:   svc-backup : TTY=pts/0 ; PWD=/home/svc-backup ; USER=root ; COMMAND=/bin/cat /etc/passwd
+Aug  1 13:31:14 webserver01 sudo:   svc-backup : TTY=pts/0 ; PWD=/home/svc-backup ; USER=root ; COMMAND=/bin/ls /var/log
+Aug  1 13:34:11 webserver01 sudo:   dave : TTY=pts/0 ; PWD=/home/dave ; USER=root ; COMMAND=/usr/bin/apt update
+Aug  1 13:36:14 webserver01 sudo:   dave : TTY=pts/0 ; PWD=/home/dave ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx
+Aug  1 13:37:51 webserver01 sudo:   bob : TTY=pts/0 ; PWD=/home/bob ; USER=root ; COMMAND=/bin/ls /var/log
+Aug  1 13:40:01 webserver01 sudo:   jenkins : TTY=pts/0 ; PWD=/home/jenkins ; USER=root ; COMMAND=/usr/bin/apt update
+Aug  1 13:42:20 webserver01 sudo:   carol : TTY=pts/0 ; PWD=/home/carol ; USER=root ; COMMAND=/bin/cat /etc/passwd
+Aug  1 13:45:32 webserver01 sudo:   alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/bin/cat /etc/passwd
+Aug  1 13:46:35 webserver01 sudo:   svc-backup : TTY=pts/0 ; PWD=/home/svc-backup ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx
+Aug  1 13:48:07 webserver01 sudo:   dave : TTY=pts/0 ; PWD=/home/dave ; USER=root ; COMMAND=/usr/bin/apt update
+Aug  1 13:48:50 webserver01 sudo:   jenkins : TTY=pts/0 ; PWD=/home/jenkins ; USER=root ; COMMAND=/bin/ls /var/log
+Aug  1 13:52:02 webserver01 sudo:   bob : TTY=pts/0 ; PWD=/home/bob ; USER=root ; COMMAND=/bin/ls /var/log
+Aug  1 13:53:12 webserver01 sudo:   alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx
+Aug  1 13:53:43 webserver01 sudo:   alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/bin/cat /etc/passwd
+Aug  1 13:56:39 webserver01 sudo:   jenkins : TTY=pts/0 ; PWD=/home/jenkins ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx
+Aug  1 13:58:55 webserver01 sudo:   carol : TTY=pts/0 ; PWD=/home/carol ; USER=root ; COMMAND=/bin/ls /var/log
+Aug  1 14:02:13 webserver01 sudo:   carol : TTY=pts/0 ; PWD=/home/carol ; USER=root ; COMMAND=/bin/cat /etc/passwd
+Aug  1 14:04:15 webserver01 sudo:   alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/bin/ls /var/log
+Aug  1 14:07:22 webserver01 sudo:   svc-backup : TTY=pts/0 ; PWD=/home/svc-backup ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx
+Aug  1 14:08:09 webserver01 sudo:   jenkins : TTY=pts/0 ; PWD=/home/jenkins ; USER=root ; COMMAND=/bin/cat /etc/passwd
+Aug  1 14:09:25 webserver01 sudo:   alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/bin/cat /etc/passwd
+Aug  1 14:09:57 webserver01 sudo:   dave : TTY=pts/0 ; PWD=/home/dave ; USER=root ; COMMAND=/bin/ls /var/log
+Aug  1 14:10:48 webserver01 sudo:   carol : TTY=pts/0 ; PWD=/home/carol ; USER=root ; COMMAND=/bin/ls /var/log
+Aug  1 14:13:06 webserver01 sudo:   svc-backup : TTY=pts/0 ; PWD=/home/svc-backup ; USER=root ; COMMAND=/usr/bin/apt update
+Aug  1 14:15:19 webserver01 sudo:   dave : TTY=pts/0 ; PWD=/home/dave ; USER=root ; COMMAND=/bin/cat /etc/passwd
+Aug  1 14:17:59 webserver01 sudo:   carol : TTY=pts/0 ; PWD=/home/carol ; USER=root ; COMMAND=/bin/ls /var/log
+Aug  1 14:20:20 webserver01 sudo:   carol : TTY=pts/0 ; PWD=/home/carol ; USER=root ; COMMAND=/usr/bin/apt update
+Aug  1 14:21:43 webserver01 sudo:   jenkins : TTY=pts/0 ; PWD=/home/jenkins ; USER=root ; COMMAND=/usr/bin/apt update
+Aug  1 14:24:16 webserver01 sudo:   carol : TTY=pts/0 ; PWD=/home/carol ; USER=root ; COMMAND=/bin/ls /var/log
+Aug  1 14:25:46 webserver01 sudo:   carol : TTY=pts/0 ; PWD=/home/carol ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx
+Aug  1 14:27:19 webserver01 sudo:   alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/usr/bin/apt update
+Aug  1 14:29:04 webserver01 sudo:   bob : TTY=pts/0 ; PWD=/home/bob ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx
+Aug  1 14:29:59 webserver01 sudo:   alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/bin/ls /var/log
+Aug  1 14:31:57 webserver01 sudo:   svc-backup : TTY=pts/0 ; PWD=/home/svc-backup ; USER=root ; COMMAND=/bin/ls /var/log
+Aug  1 14:35:17 webserver01 sudo:   alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx
+Aug  1 14:37:23 webserver01 sudo:   carol : TTY=pts/0 ; PWD=/home/carol ; USER=root ; COMMAND=/usr/bin/apt update
+Aug  1 14:40:01 webserver01 sudo:   carol : TTY=pts/0 ; PWD=/home/carol ; USER=root ; COMMAND=/bin/cat /etc/passwd
+Aug  1 14:40:36 webserver01 sudo:   alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/bin/cat /etc/passwd
+Aug  1 14:42:35 webserver01 sudo:   jenkins : TTY=pts/0 ; PWD=/home/jenkins ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx
+Aug  1 14:45:22 webserver01 sudo:   carol : TTY=pts/0 ; PWD=/home/carol ; USER=root ; COMMAND=/bin/cat /etc/passwd
+Aug  1 14:45:43 webserver01 sudo:   bob : TTY=pts/0 ; PWD=/home/bob ; USER=root ; COMMAND=/usr/bin/apt update
+Aug  1 14:47:42 webserver01 sudo:   jenkins : TTY=pts/0 ; PWD=/home/jenkins ; USER=root ; COMMAND=/bin/cat /etc/passwd
+Aug  1 14:50:19 webserver01 sudo:   svc-backup : TTY=pts/0 ; PWD=/home/svc-backup ; USER=root ; COMMAND=/bin/ls /var/log
+Aug  1 14:52:43 webserver01 sudo:   alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/usr/bin/apt update
+Aug  1 14:54:54 webserver01 sudo:   carol : TTY=pts/0 ; PWD=/home/carol ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx
+Aug  1 14:56:53 webserver01 sudo:   bob : TTY=pts/0 ; PWD=/home/bob ; USER=root ; COMMAND=/bin/cat /etc/passwd
+Aug  1 14:57:55 webserver01 sudo:   jenkins : TTY=pts/0 ; PWD=/home/jenkins ; USER=root ; COMMAND=/bin/cat /etc/passwd
+Aug  1 14:58:47 webserver01 sudo:   dave : TTY=pts/0 ; PWD=/home/dave ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx
+Aug  1 15:00:47 webserver01 sudo:   dave : TTY=pts/0 ; PWD=/home/dave ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx
+Aug  1 15:01:28 webserver01 sudo:   svc-backup : TTY=pts/0 ; PWD=/home/svc-backup ; USER=root ; COMMAND=/bin/cat /etc/passwd
+Aug  1 15:02:22 webserver01 sudo:   jenkins : TTY=pts/0 ; PWD=/home/jenkins ; USER=root ; COMMAND=/bin/cat /etc/passwd
+Aug  1 15:03:28 webserver01 sudo:   deploy : TTY=pts/0 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/bin/apt update
+Aug  1 15:05:25 webserver01 sudo:   bob : TTY=pts/0 ; PWD=/home/bob ; USER=root ; COMMAND=/bin/ls /var/log
+Aug  1 15:07:41 webserver01 sudo:   bob : TTY=pts/0 ; PWD=/home/bob ; USER=root ; COMMAND=/usr/bin/apt update
+Aug  1 15:09:38 webserver01 sudo:   bob : TTY=pts/0 ; PWD=/home/bob ; USER=root ; COMMAND=/bin/cat /etc/passwd
+Aug  1 15:12:17 webserver01 sshd[10181]: Failed password for jenkins from 10.0.0.5 port 55411 ssh2
+Aug  1 15:12:56 webserver01 sshd[10182]: Failed password for svc-backup from 10.0.0.5 port 51467 ssh2
+Aug  1 15:15:20 webserver01 sshd[10183]: Failed password for svc-backup from 10.0.0.5 port 41319 ssh2
+Aug  1 15:16:05 webserver01 sshd[10184]: Failed password for alice from 10.0.0.12 port 40667 ssh2
+Aug  1 15:21:53 webserver01 sshd[10185]: Failed password for alice from 10.0.0.12 port 44136 ssh2
+Aug  1 15:26:25 webserver01 sshd[10186]: Failed password for svc-backup from 10.0.0.5 port 58480 ssh2
+Aug  1 15:28:46 webserver01 sshd[10187]: Failed password for carol from 10.0.0.18 port 52087 ssh2
+Aug  1 15:30:41 webserver01 sshd[10188]: Failed password for dave from 10.0.0.5 port 45366 ssh2
+Aug  1 15:33:50 webserver01 sshd[10189]: Failed password for deploy from 10.0.0.5 port 50222 ssh2
+Aug  1 15:39:14 webserver01 sshd[10190]: Failed password for svc-backup from 192.168.1.20 port 52997 ssh2
+Aug  1 15:45:50 webserver01 sshd[10191]: Failed password for alice from 10.0.0.5 port 59401 ssh2
+Aug  1 15:52:13 webserver01 sshd[10192]: Failed password for jenkins from 10.0.0.12 port 43339 ssh2
+Aug  1 15:58:39 webserver01 sshd[10193]: Failed password for jenkins from 10.0.0.18 port 59674 ssh2
+Aug  1 16:00:10 webserver01 sshd[10194]: Failed password for jenkins from 10.0.0.5 port 51377 ssh2
+Aug  1 16:05:12 webserver01 sshd[10195]: Failed password for carol from 10.0.0.18 port 42259 ssh2
+Aug  1 16:13:35 webserver01 sshd[10196]: Failed password for root from 203.0.113.45 port 40414 ssh2
+Aug  1 16:13:39 webserver01 sshd[10197]: Failed password for root from 203.0.113.45 port 56062 ssh2
+Aug  1 16:13:40 webserver01 sshd[10198]: Failed password for root from 203.0.113.45 port 54205 ssh2
+Aug  1 16:13:43 webserver01 sshd[10199]: Failed password for root from 203.0.113.45 port 55064 ssh2
+Aug  1 16:13:45 webserver01 sshd[10200]: Failed password for root from 203.0.113.45 port 54270 ssh2
+Aug  1 16:13:47 webserver01 sshd[10201]: Failed password for root from 203.0.113.45 port 57096 ssh2
+Aug  1 16:13:50 webserver01 sshd[10202]: Failed password for root from 203.0.113.45 port 57634 ssh2
+Aug  1 16:13:54 webserver01 sshd[10203]: Failed password for root from 203.0.113.45 port 55232 ssh2
+Aug  1 16:13:58 webserver01 sshd[10204]: Failed password for root from 203.0.113.45 port 59414 ssh2
+Aug  1 16:14:01 webserver01 sshd[10205]: Failed password for root from 203.0.113.45 port 50561 ssh2
+Aug  1 16:14:03 webserver01 sshd[10206]: Failed password for root from 203.0.113.45 port 42839 ssh2
+Aug  1 16:14:06 webserver01 sshd[10207]: Failed password for root from 203.0.113.45 port 54771 ssh2
+Aug  1 16:14:08 webserver01 sshd[10208]: Failed password for root from 203.0.113.45 port 55227 ssh2
+Aug  1 16:14:12 webserver01 sshd[10209]: Failed password for root from 203.0.113.45 port 51023 ssh2
+Aug  1 16:14:13 webserver01 sshd[10210]: Failed password for root from 203.0.113.45 port 56197 ssh2
+Aug  1 16:14:16 webserver01 sshd[10211]: Failed password for root from 203.0.113.45 port 45958 ssh2
+Aug  1 16:14:20 webserver01 sshd[10212]: Failed password for root from 203.0.113.45 port 46950 ssh2
+Aug  1 16:14:23 webserver01 sshd[10213]: Failed password for root from 203.0.113.45 port 48465 ssh2
+Aug  1 16:14:26 webserver01 sshd[10214]: Failed password for root from 203.0.113.45 port 49163 ssh2
+Aug  1 16:14:29 webserver01 sshd[10215]: Failed password for root from 203.0.113.45 port 58212 ssh2
+Aug  1 16:14:30 webserver01 sshd[10216]: Failed password for root from 203.0.113.45 port 56928 ssh2
+Aug  1 16:14:32 webserver01 sshd[10217]: Failed password for root from 203.0.113.45 port 42805 ssh2
+Aug  1 16:14:34 webserver01 sshd[10218]: Failed password for root from 203.0.113.45 port 53317 ssh2
+Aug  1 16:14:38 webserver01 sshd[10219]: Failed password for root from 203.0.113.45 port 58192 ssh2
+Aug  1 16:14:40 webserver01 sshd[10220]: Failed password for root from 203.0.113.45 port 55600 ssh2
+Aug  1 16:14:44 webserver01 sshd[10221]: Failed password for root from 203.0.113.45 port 54685 ssh2
+Aug  1 16:14:45 webserver01 sshd[10222]: Failed password for root from 203.0.113.45 port 43049 ssh2
+Aug  1 16:14:48 webserver01 sshd[10223]: Failed password for root from 203.0.113.45 port 47261 ssh2
+Aug  1 16:14:52 webserver01 sshd[10224]: Failed password for root from 203.0.113.45 port 47972 ssh2
+Aug  1 16:14:55 webserver01 sshd[10225]: Failed password for root from 203.0.113.45 port 59056 ssh2
+Aug  1 16:14:58 webserver01 sshd[10226]: Failed password for root from 203.0.113.45 port 55507 ssh2
+Aug  1 16:15:01 webserver01 sshd[10227]: Failed password for root from 203.0.113.45 port 53942 ssh2
+Aug  1 16:15:04 webserver01 sshd[10228]: Failed password for root from 203.0.113.45 port 51528 ssh2
+Aug  1 16:15:08 webserver01 sshd[10229]: Failed password for root from 203.0.113.45 port 48877 ssh2
+Aug  1 16:15:11 webserver01 sshd[10230]: Failed password for root from 203.0.113.45 port 48237 ssh2
+Aug  1 16:15:13 webserver01 sshd[10231]: Failed password for root from 203.0.113.45 port 43953 ssh2
+Aug  1 16:15:15 webserver01 sshd[10232]: Failed password for root from 203.0.113.45 port 50339 ssh2
+Aug  1 16:15:16 webserver01 sshd[10233]: Failed password for root from 203.0.113.45 port 57559 ssh2
+Aug  1 16:15:19 webserver01 sshd[10234]: Accepted password for root from 203.0.113.45 port 46066 ssh2
+Aug  1 16:25:21 webserver01 sshd[10235]: Failed password for invalid user admin from 198.51.100.23 port 47090 ssh2
+Aug  1 16:25:25 webserver01 sshd[10236]: Failed password for invalid user admin from 198.51.100.23 port 49060 ssh2
+Aug  1 16:25:30 webserver01 sshd[10237]: Failed password for invalid user root from 198.51.100.23 port 57191 ssh2
+Aug  1 16:25:35 webserver01 sshd[10238]: Failed password for invalid user root from 198.51.100.23 port 49273 ssh2
+Aug  1 16:25:36 webserver01 sshd[10239]: Failed password for invalid user test from 198.51.100.23 port 46360 ssh2
+Aug  1 16:25:39 webserver01 sshd[10240]: Failed password for invalid user test from 198.51.100.23 port 47454 ssh2
+Aug  1 16:25:42 webserver01 sshd[10241]: Failed password for invalid user guest from 198.51.100.23 port 45879 ssh2
+Aug  1 16:25:45 webserver01 sshd[10242]: Failed password for invalid user guest from 198.51.100.23 port 40463 ssh2
+Aug  1 16:25:50 webserver01 sshd[10243]: Failed password for invalid user administrator from 198.51.100.23 port 44147 ssh2
+Aug  1 16:25:53 webserver01 sshd[10244]: Failed password for invalid user administrator from 198.51.100.23 port 41491 ssh2
+Aug  1 16:25:54 webserver01 sshd[10245]: Failed password for invalid user oracle from 198.51.100.23 port 58132 ssh2
+Aug  1 16:25:57 webserver01 sshd[10246]: Failed password for invalid user oracle from 198.51.100.23 port 44137 ssh2
+Aug  1 16:26:01 webserver01 sshd[10247]: Failed password for invalid user postgres from 198.51.100.23 port 43361 ssh2
+Aug  1 16:26:02 webserver01 sshd[10248]: Failed password for invalid user postgres from 198.51.100.23 port 58810 ssh2
+Aug  1 16:26:05 webserver01 sshd[10249]: Failed password for invalid user ubuntu from 198.51.100.23 port 55381 ssh2
+Aug  1 16:26:09 webserver01 sshd[10250]: Failed password for invalid user ubuntu from 198.51.100.23 port 54433 ssh2
+Aug  1 16:26:12 webserver01 sshd[10251]: Failed password for invalid user ec2-user from 198.51.100.23 port 46041 ssh2
+Aug  1 16:26:13 webserver01 sshd[10252]: Failed password for invalid user ec2-user from 198.51.100.23 port 48273 ssh2
+Aug  1 16:26:17 webserver01 sshd[10253]: Failed password for invalid user user from 198.51.100.23 port 43738 ssh2
+Aug  1 16:26:18 webserver01 sshd[10254]: Failed password for invalid user user from 198.51.100.23 port 53130 ssh2
+Aug  1 16:26:22 webserver01 sshd[10255]: Failed password for invalid user support from 198.51.100.23 port 42427 ssh2
+Aug  1 16:26:27 webserver01 sshd[10256]: Failed password for invalid user support from 198.51.100.23 port 41756 ssh2
+Aug  1 16:26:29 webserver01 sshd[10257]: Failed password for invalid user info from 198.51.100.23 port 44888 ssh2
+Aug  1 16:26:34 webserver01 sshd[10258]: Failed password for invalid user info from 198.51.100.23 port 49956 ssh2
+Aug  1 16:38:21 webserver01 sshd[10259]: Failed password for backup from 203.0.113.45 port 48132 ssh2
+Aug  1 16:38:29 webserver01 sshd[10260]: Failed password for backup from 198.51.100.23 port 58286 ssh2
+Aug  1 16:38:47 webserver01 sshd[10261]: Failed password for backup from 192.0.2.77 port 59867 ssh2
+Aug  1 16:38:59 webserver01 sshd[10262]: Failed password for backup from 45.129.14.6 port 57123 ssh2
+Aug  1 16:39:16 webserver01 sshd[10263]: Failed password for backup from 185.220.101.5 port 54762 ssh2
+Aug  1 16:39:35 webserver01 sshd[10264]: Failed password for backup from 91.240.118.6 port 49743 ssh2
+Aug  1 16:39:53 webserver01 sshd[10265]: Failed password for backup from 203.0.113.80 port 50006 ssh2
+Aug  1 16:39:59 webserver01 sshd[10266]: Failed password for backup from 203.0.113.81 port 59976 ssh2
+Aug  1 16:40:07 webserver01 sshd[10267]: Failed password for backup from 203.0.113.82 port 46808 ssh2
+Aug  1 16:40:18 webserver01 sshd[10268]: Failed password for backup from 203.0.113.83 port 48671 ssh2
+Aug  1 16:40:25 webserver01 sshd[10269]: Failed password for backup from 203.0.113.84 port 45146 ssh2
+Aug  1 16:40:37 webserver01 sshd[10270]: Failed password for backup from 203.0.113.85 port 45695 ssh2
+Aug  1 16:40:44 webserver01 sshd[10271]: Failed password for backup from 203.0.113.86 port 45129 ssh2
+Aug  1 16:40:49 webserver01 sshd[10272]: Failed password for backup from 203.0.113.87 port 53386 ssh2
+Aug  1 16:41:08 webserver01 sshd[10273]: Failed password for backup from 203.0.113.88 port 59458 ssh2
+Aug  1 16:41:28 webserver01 sshd[10274]: Failed password for backup from 203.0.113.89 port 49543 ssh2
+Aug  1 16:49:50 webserver01 sshd[10275]: Invalid user test1 from 192.0.2.77
+Aug  1 16:49:53 webserver01 sshd[10276]: Invalid user test2 from 192.0.2.77
+Aug  1 16:49:57 webserver01 sshd[10277]: Invalid user qwerty from 192.0.2.77
+Aug  1 16:50:04 webserver01 sshd[10278]: Invalid user sysadmin from 192.0.2.77
+Aug  1 16:50:08 webserver01 sshd[10279]: Invalid user operator from 192.0.2.77
+Aug  1 16:56:54 webserver01 sshd[10280]: Failed password for alice from 45.129.14.6 port 54877 ssh2
+Aug  1 16:56:55 webserver01 sshd[10281]: Failed password for alice from 45.129.14.6 port 47648 ssh2
+Aug  1 16:56:58 webserver01 sshd[10282]: Failed password for alice from 45.129.14.6 port 59326 ssh2
+Aug  1 16:57:04 webserver01 sshd[10283]: Failed password for alice from 45.129.14.6 port 46482 ssh2
+Aug  1 16:57:08 webserver01 sshd[10284]: Failed password for alice from 45.129.14.6 port 43760 ssh2
+Aug  1 16:57:13 webserver01 sshd[10285]: Failed password for alice from 45.129.14.6 port 47366 ssh2
+Aug  1 16:57:19 webserver01 sshd[10286]: Failed password for alice from 45.129.14.6 port 44882 ssh2
+Aug  1 16:57:22 webserver01 sshd[10287]: Failed password for alice from 45.129.14.6 port 44660 ssh2
+Aug  1 16:57:23 webserver01 sshd[10288]: Failed password for alice from 45.129.14.6 port 41954 ssh2
+Aug  1 16:57:25 webserver01 sshd[10289]: Failed password for alice from 45.129.14.6 port 50079 ssh2
+Aug  1 16:57:30 webserver01 sshd[10290]: Failed password for alice from 45.129.14.6 port 58651 ssh2
+Aug  1 16:57:33 webserver01 sshd[10291]: Failed password for alice from 45.129.14.6 port 54390 ssh2
+Aug  1 16:58:14 webserver01 sshd[10292]: Accepted password for carol from 10.0.0.18 port 53189 ssh2
+Aug  1 16:59:33 webserver01 sshd[10293]: Accepted password for dave from 192.168.1.20 port 54344 ssh2
+Aug  1 17:00:03 webserver01 sshd[10294]: Accepted password for dave from 10.0.0.5 port 54156 ssh2
+Aug  1 17:03:21 webserver01 sshd[10295]: Accepted password for bob from 10.0.0.18 port 40847 ssh2
+Aug  1 17:03:54 webserver01 sshd[10296]: Accepted password for alice from 10.0.0.5 port 48831 ssh2
+Aug  1 17:06:31 webserver01 sshd[10297]: Accepted password for deploy from 10.0.0.12 port 55417 ssh2
+Aug  1 17:08:53 webserver01 sshd[10298]: Accepted password for svc-backup from 192.168.1.20 port 49114 ssh2
+Aug  1 17:09:49 webserver01 sshd[10299]: Accepted password for dave from 192.168.1.20 port 56112 ssh2
+Aug  1 17:10:22 webserver01 sshd[10300]: Accepted password for carol from 10.0.0.18 port 53380 ssh2
+Aug  1 17:11:57 webserver01 sshd[10301]: Accepted password for bob from 10.0.0.5 port 45269 ssh2
+Aug  1 17:13:31 webserver01 sshd[10302]: Accepted password for carol from 192.168.1.20 port 49444 ssh2
+Aug  1 17:16:30 webserver01 sshd[10303]: Accepted password for carol from 10.0.0.5 port 54903 ssh2
+Aug  1 17:17:02 webserver01 sshd[10304]: Accepted password for bob from 10.0.0.18 port 50593 ssh2
+Aug  1 17:17:41 webserver01 sshd[10305]: Accepted password for jenkins from 192.168.1.20 port 56862 ssh2
+Aug  1 17:17:51 webserver01 sshd[10306]: Accepted password for svc-backup from 192.168.1.20 port 53541 ssh2
+Aug  1 17:18:14 webserver01 sshd[10307]: Accepted password for alice from 10.0.0.18 port 56334 ssh2
+Aug  1 17:21:04 webserver01 sshd[10308]: Accepted password for carol from 10.0.0.5 port 46670 ssh2
+Aug  1 17:22:22 webserver01 sshd[10309]: Accepted password for dave from 10.0.0.12 port 49438 ssh2
+Aug  1 17:24:24 webserver01 sshd[10310]: Accepted password for svc-backup from 192.168.1.20 port 43978 ssh2
+Aug  1 17:24:41 webserver01 sshd[10311]: Accepted password for svc-backup from 10.0.0.12 port 45189 ssh2
+Aug  1 17:26:10 webserver01 sshd[10312]: Accepted password for dave from 10.0.0.5 port 58096 ssh2
+Aug  1 17:28:04 webserver01 sshd[10313]: Accepted password for deploy from 10.0.0.12 port 43717 ssh2
+Aug  1 17:30:12 webserver01 sshd[10314]: Accepted password for deploy from 10.0.0.12 port 56330 ssh2
+Aug  1 17:33:25 webserver01 sshd[10315]: Accepted password for bob from 10.0.0.18 port 53614 ssh2
+Aug  1 17:35:38 webserver01 sshd[10316]: Accepted password for carol from 10.0.0.12 port 54967 ssh2
+Aug  1 17:38:09 webserver01 sshd[10317]: Accepted password for alice from 192.168.1.20 port 46245 ssh2
+Aug  1 17:40:52 webserver01 sshd[10318]: Accepted password for dave from 10.0.0.12 port 42287 ssh2
+Aug  1 17:42:12 webserver01 sshd[10319]: Accepted password for jenkins from 192.168.1.20 port 51137 ssh2
+Aug  1 17:44:31 webserver01 sshd[10320]: Accepted password for bob from 10.0.0.5 port 49268 ssh2
+Aug  1 17:47:46 webserver01 sshd[10321]: Accepted password for bob from 192.168.1.20 port 44869 ssh2
+Aug  1 17:49:50 webserver01 sshd[10322]: Accepted password for dave from 192.168.1.20 port 51309 ssh2
+Aug  1 17:51:25 webserver01 sshd[10323]: Accepted password for dave from 192.168.1.20 port 54920 ssh2
+Aug  1 17:52:57 webserver01 sshd[10324]: Accepted password for jenkins from 10.0.0.12 port 47825 ssh2
+Aug  1 17:55:33 webserver01 sshd[10325]: Accepted password for carol from 10.0.0.12 port 53460 ssh2
+Aug  1 17:55:54 webserver01 sshd[10326]: Accepted password for bob from 192.168.1.20 port 52492 ssh2
+Aug  1 17:57:42 webserver01 sshd[10327]: Accepted password for svc-backup from 10.0.0.12 port 56230 ssh2
+Aug  1 17:58:01 webserver01 sshd[10328]: Accepted password for alice from 10.0.0.18 port 43288 ssh2
+Aug  1 18:00:03 webserver01 sshd[10329]: Accepted password for deploy from 192.168.1.20 port 40502 ssh2
+Aug  1 18:03:17 webserver01 sshd[10330]: Accepted password for alice from 192.168.1.20 port 45058 ssh2
+Aug  1 18:03:46 webserver01 sshd[10331]: Accepted password for carol from 10.0.0.18 port 51093 ssh2
+Aug  1 18:06:35 webserver01 sshd[10332]: Accepted password for svc-backup from 192.168.1.20 port 42631 ssh2
+Aug  1 18:08:09 webserver01 sshd[10333]: Accepted password for jenkins from 192.168.1.20 port 50376 ssh2
+Aug  1 18:10:59 webserver01 sshd[10334]: Accepted password for svc-backup from 192.168.1.20 port 57728 ssh2
+Aug  1 18:11:18 webserver01 sshd[10335]: Accepted password for dave from 10.0.0.5 port 47692 ssh2
+Aug  1 18:14:09 webserver01 sshd[10336]: Accepted password for svc-backup from 10.0.0.18 port 47454 ssh2
+Aug  1 18:14:42 webserver01 sshd[10337]: Accepted password for carol from 10.0.0.5 port 43293 ssh2
+Aug  1 18:16:45 webserver01 sshd[10338]: Accepted password for alice from 10.0.0.18 port 40948 ssh2
+Aug  1 18:17:06 webserver01 sshd[10339]: Accepted password for bob from 10.0.0.5 port 49613 ssh2
+Aug  1 18:18:47 webserver01 sshd[10340]: Accepted password for bob from 192.168.1.20 port 44770 ssh2
+Aug  1 18:19:59 webserver01 sshd[10341]: Accepted password for dave from 192.168.1.20 port 58544 ssh2
+Aug  1 18:23:03 webserver01 sshd[10342]: Accepted password for jenkins from 10.0.0.12 port 45570 ssh2
+Aug  1 18:23:57 webserver01 sshd[10343]: Accepted password for deploy from 192.168.1.20 port 47891 ssh2
+Aug  1 18:26:14 webserver01 sshd[10344]: Accepted password for dave from 10.0.0.12 port 47608 ssh2
+Aug  1 18:28:22 webserver01 sshd[10345]: Accepted password for svc-backup from 10.0.0.18 port 55059 ssh2
+Aug  1 18:29:37 webserver01 sshd[10346]: Accepted password for svc-backup from 10.0.0.5 port 55245 ssh2
+Aug  1 18:31:00 webserver01 sshd[10347]: Accepted password for svc-backup from 10.0.0.12 port 42420 ssh2
+Aug  1 18:33:03 webserver01 sshd[10348]: Accepted password for bob from 10.0.0.18 port 53903 ssh2
+Aug  1 18:36:09 webserver01 sshd[10349]: Accepted password for bob from 192.168.1.20 port 49899 ssh2
+Aug  1 18:37:09 webserver01 sshd[10350]: Accepted password for carol from 192.168.1.20 port 43494 ssh2
+Aug  1 18:38:19 webserver01 sshd[10351]: Accepted password for carol from 10.0.0.18 port 58835 ssh2
+Aug  1 18:39:44 webserver01 sshd[10352]: Accepted password for svc-backup from 10.0.0.18 port 40718 ssh2
+Aug  1 18:42:42 webserver01 sshd[10353]: Accepted password for carol from 10.0.0.18 port 40265 ssh2
+Aug  1 18:45:16 webserver01 sshd[10354]: Accepted password for jenkins from 10.0.0.5 port 59870 ssh2
+Aug  1 18:48:36 webserver01 sshd[10355]: Accepted password for carol from 10.0.0.18 port 47540 ssh2
+Aug  1 18:51:21 webserver01 sshd[10356]: Accepted password for jenkins from 10.0.0.18 port 47176 ssh2
+Aug  1 18:54:13 webserver01 sshd[10357]: Accepted password for alice from 10.0.0.18 port 44481 ssh2
+Aug  1 18:57:03 webserver01 sshd[10358]: Accepted password for deploy from 10.0.0.5 port 50123 ssh2
+Aug  1 18:59:05 webserver01 sshd[10359]: Accepted password for deploy from 10.0.0.18 port 44306 ssh2
+Aug  1 18:59:38 webserver01 sshd[10360]: Accepted password for bob from 10.0.0.18 port 53615 ssh2
+Aug  1 19:00:32 webserver01 sshd[10361]: Accepted password for alice from 10.0.0.12 port 57675 ssh2
+Aug  1 19:02:15 webserver01 sshd[10362]: Accepted password for dave from 10.0.0.18 port 45391 ssh2
+Aug  1 19:03:30 webserver01 sshd[10363]: Accepted password for jenkins from 192.168.1.20 port 49671 ssh2
+Aug  1 19:05:06 webserver01 sshd[10364]: Accepted password for jenkins from 10.0.0.5 port 55346 ssh2
+Aug  1 19:05:35 webserver01 sshd[10365]: Accepted password for alice from 10.0.0.12 port 53022 ssh2
+Aug  1 19:08:07 webserver01 sshd[10366]: Accepted password for bob from 10.0.0.5 port 52929 ssh2
+Aug  1 19:08:20 webserver01 sshd[10367]: Accepted password for bob from 10.0.0.5 port 54902 ssh2
+Aug  1 19:10:04 webserver01 sshd[10368]: Accepted password for svc-backup from 10.0.0.18 port 59154 ssh2
+Aug  1 19:11:51 webserver01 sshd[10369]: Accepted password for jenkins from 10.0.0.18 port 43550 ssh2
+Aug  1 19:14:53 webserver01 sshd[10370]: Accepted password for alice from 192.168.1.20 port 40820 ssh2
+Aug  1 19:17:41 webserver01 sshd[10371]: Accepted password for dave from 10.0.0.18 port 59991 ssh2
+Aug  1 19:18:47 webserver01 sshd[10372]: Accepted password for svc-backup from 10.0.0.5 port 55213 ssh2
+Aug  1 19:21:56 webserver01 sshd[10373]: Accepted password for bob from 192.168.1.20 port 43823 ssh2
+Aug  1 19:22:41 webserver01 sshd[10374]: Accepted password for deploy from 10.0.0.5 port 49973 ssh2
+Aug  1 19:24:57 webserver01 sshd[10375]: Accepted password for deploy from 10.0.0.5 port 47693 ssh2
+Aug  1 19:27:24 webserver01 sshd[10376]: Accepted password for alice from 192.168.1.20 port 54864 ssh2
+Aug  1 19:29:08 webserver01 sshd[10377]: Accepted password for svc-backup from 192.168.1.20 port 59245 ssh2
+Aug  1 19:32:28 webserver01 sshd[10378]: Accepted password for svc-backup from 10.0.0.12 port 53594 ssh2
+Aug  1 19:35:25 webserver01 sshd[10379]: Accepted password for deploy from 192.168.1.20 port 53373 ssh2
+Aug  1 19:36:46 webserver01 sshd[10380]: Accepted password for deploy from 10.0.0.18 port 47119 ssh2
+Aug  1 19:38:49 webserver01 sshd[10381]: Accepted password for carol from 10.0.0.12 port 51884 ssh2
+Aug  1 19:39:24 webserver01 sshd[10382]: Accepted password for svc-backup from 10.0.0.18 port 57841 ssh2
+Aug  1 19:42:19 webserver01 sshd[10383]: Accepted password for bob from 10.0.0.5 port 53046 ssh2
+Aug  1 19:43:39 webserver01 sshd[10384]: Accepted password for alice from 10.0.0.5 port 54900 ssh2
+Aug  1 19:44:12 webserver01 sshd[10385]: Accepted password for svc-backup from 10.0.0.12 port 59567 ssh2
+Aug  1 19:44:27 webserver01 sshd[10386]: Accepted password for deploy from 10.0.0.18 port 47981 ssh2
+Aug  1 19:45:09 webserver01 sshd[10387]: Accepted password for jenkins from 10.0.0.12 port 42248 ssh2
+Aug  1 19:47:40 webserver01 sshd[10388]: Accepted password for alice from 10.0.0.12 port 47634 ssh2
+Aug  1 19:49:14 webserver01 sshd[10389]: Accepted password for jenkins from 10.0.0.12 port 59529 ssh2
+Aug  1 19:49:24 webserver01 sshd[10390]: Accepted password for bob from 10.0.0.12 port 44259 ssh2
+Aug  1 19:51:52 webserver01 sshd[10391]: Accepted password for bob from 10.0.0.12 port 43602 ssh2
+Aug  1 19:54:51 webserver01 sshd[10392]: Accepted password for jenkins from 10.0.0.5 port 44318 ssh2
+Aug  1 19:55:04 webserver01 sshd[10393]: Accepted password for bob from 10.0.0.12 port 59295 ssh2
+Aug  1 19:56:36 webserver01 sshd[10394]: Accepted password for deploy from 10.0.0.12 port 48695 ssh2
+Aug  1 19:56:59 webserver01 sshd[10395]: Accepted password for alice from 192.168.1.20 port 57238 ssh2
+Aug  1 19:57:38 webserver01 sshd[10396]: Accepted password for svc-backup from 10.0.0.5 port 55605 ssh2
+Aug  1 19:59:42 webserver01 sshd[10397]: Accepted password for jenkins from 10.0.0.18 port 56817 ssh2
+Aug  1 20:02:23 webserver01 sshd[10398]: Accepted password for deploy from 192.168.1.20 port 56509 ssh2
+Aug  1 20:03:29 webserver01 sshd[10399]: Accepted password for dave from 10.0.0.5 port 57086 ssh2
+Aug  1 20:04:56 webserver01 sshd[10400]: Accepted password for carol from 10.0.0.5 port 41993 ssh2
+Aug  1 20:07:08 webserver01 sshd[10401]: Accepted password for jenkins from 192.168.1.20 port 53968 ssh2
+Aug  1 20:10:13 webserver01 sshd[10402]: Accepted password for deploy from 192.168.1.20 port 54534 ssh2
+Aug  1 20:10:41 webserver01 sshd[10403]: Accepted password for deploy from 10.0.0.18 port 59932 ssh2
+Aug  1 20:11:28 webserver01 sshd[10404]: Accepted password for deploy from 10.0.0.12 port 49011 ssh2
+Aug  1 20:14:17 webserver01 sshd[10405]: Accepted password for svc-backup from 10.0.0.18 port 52481 ssh2
+Aug  1 20:16:59 webserver01 sshd[10406]: Accepted password for dave from 10.0.0.18 port 54867 ssh2
+Aug  1 20:19:18 webserver01 sshd[10407]: Accepted password for dave from 192.168.1.20 port 43249 ssh2
+Aug  1 20:22:27 webserver01 sshd[10408]: Accepted password for deploy from 10.0.0.12 port 54092 ssh2
+Aug  1 20:24:32 webserver01 sshd[10409]: Accepted password for alice from 192.168.1.20 port 51106 ssh2
+Aug  1 20:26:38 webserver01 sshd[10410]: Accepted password for carol from 192.168.1.20 port 43115 ssh2
+Aug  1 20:28:08 webserver01 sshd[10411]: Accepted password for carol from 10.0.0.18 port 48352 ssh2
+Aug  1 20:29:53 webserver01 sshd[10412]: Accepted password for alice from 192.168.1.20 port 42199 ssh2
+Aug  1 20:30:26 webserver01 sshd[10413]: Accepted password for jenkins from 10.0.0.5 port 43054 ssh2
+Aug  1 20:32:26 webserver01 sshd[10414]: Accepted password for deploy from 10.0.0.18 port 44263 ssh2
+Aug  1 20:34:58 webserver01 sshd[10415]: Accepted password for deploy from 10.0.0.18 port 44005 ssh2
+Aug  1 20:36:53 webserver01 sshd[10416]: Accepted password for bob from 192.168.1.20 port 41685 ssh2
+Aug  1 20:38:16 webserver01 sshd[10417]: Accepted password for dave from 10.0.0.18 port 51522 ssh2
+Aug  1 20:38:52 webserver01 sshd[10418]: Accepted password for dave from 10.0.0.12 port 45070 ssh2
+Aug  1 20:41:50 webserver01 sshd[10419]: Accepted password for carol from 10.0.0.12 port 43546 ssh2
+Aug  1 20:43:29 webserver01 sshd[10420]: Accepted password for jenkins from 10.0.0.18 port 43764 ssh2
+Aug  1 20:44:50 webserver01 sshd[10421]: Accepted password for dave from 10.0.0.12 port 54061 ssh2
+Aug  1 20:47:23 webserver01 sshd[10422]: Accepted password for jenkins from 10.0.0.5 port 59955 ssh2
+Aug  1 20:50:21 webserver01 sshd[10423]: Accepted password for jenkins from 10.0.0.18 port 40948 ssh2
+Aug  1 20:51:17 webserver01 sshd[10424]: Accepted password for bob from 10.0.0.18 port 51135 ssh2
+Aug  1 20:52:56 webserver01 sshd[10425]: Accepted password for deploy from 10.0.0.12 port 44694 ssh2
+Aug  1 20:55:30 webserver01 sshd[10426]: Accepted password for svc-backup from 192.168.1.20 port 42280 ssh2
+Aug  1 20:56:16 webserver01 sshd[10427]: Accepted password for svc-backup from 10.0.0.5 port 43006 ssh2
+Aug  1 20:58:41 webserver01 sshd[10428]: Accepted password for alice from 192.168.1.20 port 53757 ssh2
+Aug  1 21:00:47 webserver01 sshd[10429]: Accepted password for bob from 10.0.0.12 port 52125 ssh2
+Aug  1 21:02:16 webserver01 sshd[10430]: Accepted password for svc-backup from 10.0.0.18 port 58598 ssh2
+Aug  1 21:04:58 webserver01 sshd[10431]: Accepted password for deploy from 10.0.0.5 port 45098 ssh2
+Aug  1 21:05:48 webserver01 sshd[10432]: Accepted password for jenkins from 10.0.0.5 port 42673 ssh2
+Aug  1 21:07:07 webserver01 sshd[10433]: Accepted password for carol from 192.168.1.20 port 55914 ssh2
+Aug  1 21:09:52 webserver01 sshd[10434]: Accepted password for carol from 192.168.1.20 port 48951 ssh2
+Aug  1 21:10:57 webserver01 sshd[10435]: Accepted password for jenkins from 10.0.0.5 port 51310 ssh2
+Aug  1 21:12:57 webserver01 sshd[10436]: Accepted password for deploy from 10.0.0.18 port 59435 ssh2
+Aug  1 21:15:11 webserver01 sshd[10437]: Accepted password for dave from 10.0.0.18 port 41488 ssh2
+Aug  1 21:16:17 webserver01 sshd[10438]: Accepted password for carol from 10.0.0.5 port 40251 ssh2
+Aug  1 21:17:19 webserver01 sshd[10439]: Accepted password for bob from 10.0.0.12 port 44496 ssh2
+Aug  1 21:18:34 webserver01 sshd[10440]: Accepted password for bob from 10.0.0.18 port 43931 ssh2
+Aug  1 21:18:45 webserver01 sshd[10441]: Accepted password for carol from 192.168.1.20 port 45757 ssh2
+Aug  1 21:19:28 webserver01 sshd[10442]: Accepted password for carol from 10.0.0.12 port 56392 ssh2
+Aug  1 21:22:01 webserver01 sshd[10443]: Accepted password for jenkins from 10.0.0.18 port 42361 ssh2
+Aug  1 21:23:52 webserver01 sshd[10444]: Accepted password for jenkins from 10.0.0.5 port 54294 ssh2
+Aug  1 21:24:06 webserver01 sshd[10445]: Accepted password for carol from 10.0.0.5 port 50258 ssh2
+Aug  1 21:26:43 webserver01 sshd[10446]: Accepted password for carol from 192.168.1.20 port 53686 ssh2
+Aug  1 21:28:07 webserver01 sshd[10447]: Accepted password for deploy from 192.168.1.20 port 40683 ssh2
+Aug  1 21:29:40 webserver01 sshd[10448]: Accepted password for alice from 192.168.1.20 port 51857 ssh2
+Aug  1 21:30:12 webserver01 sshd[10449]: Accepted password for carol from 10.0.0.5 port 47972 ssh2
+Aug  1 21:32:13 webserver01 sshd[10450]: Accepted password for dave from 192.168.1.20 port 57169 ssh2
+Aug  1 21:32:43 webserver01 sshd[10451]: Accepted password for carol from 10.0.0.18 port 51125 ssh2
+Aug  1 21:33:49 webserver01 sshd[10452]: Accepted password for bob from 10.0.0.12 port 42502 ssh2
+Aug  1 21:36:09 webserver01 sshd[10453]: Accepted password for svc-backup from 10.0.0.5 port 57386 ssh2
+Aug  1 21:38:29 webserver01 sshd[10454]: Accepted password for alice from 10.0.0.18 port 51504 ssh2
+Aug  1 21:41:45 webserver01 sshd[10455]: Accepted password for jenkins from 10.0.0.12 port 47742 ssh2
+Aug  1 21:42:21 webserver01 sshd[10456]: Accepted password for alice from 10.0.0.18 port 46464 ssh2
+Aug  1 21:43:15 webserver01 sshd[10457]: Accepted password for dave from 10.0.0.12 port 42469 ssh2
+Aug  1 21:44:10 webserver01 sshd[10458]: Accepted password for jenkins from 192.168.1.20 port 55202 ssh2
+Aug  1 21:46:44 webserver01 sshd[10459]: Accepted password for jenkins from 192.168.1.20 port 58497 ssh2
+Aug  1 21:49:38 webserver01 sshd[10460]: Accepted password for svc-backup from 10.0.0.18 port 50359 ssh2
+Aug  1 21:50:26 webserver01 sshd[10461]: Accepted password for carol from 10.0.0.5 port 55365 ssh2
+Aug  1 21:52:29 webserver01 sshd[10462]: Accepted password for svc-backup from 10.0.0.18 port 49000 ssh2
+Aug  1 21:55:10 webserver01 sshd[10463]: Accepted password for deploy from 10.0.0.18 port 56624 ssh2
+Aug  1 21:55:38 webserver01 sshd[10464]: Accepted password for bob from 192.168.1.20 port 54808 ssh2
+Aug  1 21:55:57 webserver01 sshd[10465]: Accepted password for deploy from 10.0.0.18 port 49406 ssh2
+Aug  1 21:56:26 webserver01 sshd[10466]: Accepted password for svc-backup from 10.0.0.5 port 59466 ssh2
+Aug  1 21:58:45 webserver01 sshd[10467]: Accepted password for carol from 192.168.1.20 port 59016 ssh2
+Aug  1 22:01:16 webserver01 sshd[10468]: Accepted password for jenkins from 10.0.0.5 port 54736 ssh2
+Aug  1 22:03:52 webserver01 sshd[10469]: Accepted password for svc-backup from 10.0.0.12 port 50535 ssh2
+Aug  1 22:06:36 webserver01 sshd[10470]: Accepted password for carol from 10.0.0.12 port 42027 ssh2
+Aug  1 22:08:41 webserver01 sshd[10471]: Accepted password for deploy from 10.0.0.18 port 42763 ssh2
+Aug  1 22:11:00 webserver01 sshd[10472]: Accepted password for svc-backup from 10.0.0.12 port 41282 ssh2
+Aug  1 22:12:13 webserver01 sshd[10473]: Accepted password for svc-backup from 192.168.1.20 port 54398 ssh2
+Aug  1 22:14:37 webserver01 sshd[10474]: Accepted password for dave from 10.0.0.12 port 51924 ssh2
+Aug  1 22:16:22 webserver01 sshd[10475]: Accepted password for bob from 192.168.1.20 port 53394 ssh2
+Aug  1 22:17:58 webserver01 sshd[10476]: Accepted password for svc-backup from 10.0.0.5 port 50965 ssh2
+Aug  1 22:18:24 webserver01 sshd[10477]: Accepted password for bob from 10.0.0.5 port 58283 ssh2
+Aug  1 22:21:27 webserver01 sshd[10478]: Accepted password for carol from 10.0.0.18 port 48257 ssh2
+Aug  1 22:24:42 webserver01 sshd[10479]: Accepted password for jenkins from 10.0.0.12 port 50923 ssh2
+Aug  1 22:25:12 webserver01 sshd[10480]: Accepted password for dave from 10.0.0.12 port 51462 ssh2
+Aug  1 22:26:41 webserver01 sshd[10481]: Accepted password for svc-backup from 192.168.1.20 port 44225 ssh2
+Aug  1 22:29:23 webserver01 sshd[10482]: Accepted password for svc-backup from 10.0.0.5 port 50144 ssh2
+Aug  1 22:31:56 webserver01 sshd[10483]: Accepted password for carol from 10.0.0.18 port 44187 ssh2
+Aug  1 22:34:57 webserver01 sshd[10484]: Accepted password for svc-backup from 10.0.0.5 port 53874 ssh2
+Aug  1 22:37:17 webserver01 sshd[10485]: Accepted password for bob from 10.0.0.5 port 51881 ssh2
+Aug  1 22:38:46 webserver01 sshd[10486]: Accepted password for alice from 10.0.0.12 port 51197 ssh2
+Aug  1 22:41:00 webserver01 sshd[10487]: Accepted password for alice from 10.0.0.12 port 44507 ssh2
+Aug  1 22:41:49 webserver01 sshd[10488]: Accepted password for deploy from 10.0.0.18 port 43314 ssh2
+Aug  1 22:44:08 webserver01 sshd[10489]: Accepted password for jenkins from 10.0.0.5 port 51035 ssh2
+Aug  1 22:46:56 webserver01 sshd[10490]: Accepted password for alice from 192.168.1.20 port 45054 ssh2
+Aug  1 22:47:47 webserver01 sshd[10491]: Accepted password for alice from 10.0.0.12 port 54341 ssh2
+Aug  1 22:48:08 webserver01 sshd[10492]: Accepted password for carol from 10.0.0.18 port 47783 ssh2
+Aug  1 22:50:11 webserver01 sshd[10493]: Accepted password for dave from 10.0.0.18 port 54710 ssh2
+Aug  1 22:51:20 webserver01 sshd[10494]: Accepted password for dave from 10.0.0.12 port 50140 ssh2
+Aug  1 22:53:30 webserver01 sshd[10495]: Accepted password for jenkins from 10.0.0.12 port 52053 ssh2
+Aug  1 22:56:33 webserver01 sshd[10496]: Accepted password for dave from 192.168.1.20 port 55128 ssh2
+Aug  1 22:57:55 webserver01 sshd[10497]: Accepted password for jenkins from 192.168.1.20 port 56479 ssh2
+Aug  1 23:00:20 webserver01 sshd[10498]: Accepted password for carol from 10.0.0.12 port 46543 ssh2
+Aug  1 23:03:04 webserver01 sshd[10499]: Accepted password for alice from 10.0.0.18 port 41709 ssh2
+Aug  1 23:05:58 webserver01 sshd[10500]: Accepted password for carol from 10.0.0.18 port 58171 ssh2
